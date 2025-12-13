@@ -1,0 +1,8 @@
+/node_modules
+/cypress/results/
+/cypress/screenshots/
+/cypress/videos/
+/allure/report/
+/allure/results/
+/result/
+.DS_Store
